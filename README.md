@@ -1,5 +1,5 @@
 # 見に来てくださった皆様、こんにちは。👋
-## (Nice To Meet you Everyone.)👋
+## (Nice To Meet you Everyone.)
 
 ![234b2257-66fe-4336-9a05-d4a5835da24e](https://github.com/NexonKitsune/NexonKitsune/assets/173798663/53710079-6c3b-4253-85de-bb095d7b265a)
 

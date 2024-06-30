@@ -45,8 +45,12 @@ Network Engineer
 
 ![anime-bye-bye-maki](https://github.com/NexonKitsune/NexonKitsune/assets/173798663/1c7e1eda-4688-46a1-9be8-1b5930a61d19)
 
+## My skill
+``` Graphic Design
+3D model, Drawer Artist
+```
+.#เป็น Program ที่วาดรูปได้นิดหน่อย เเฮะๆ
 # Bye !
-
 
 
 

@@ -11,10 +11,41 @@
 
 KMUTNB 67 [ INE ]
 
+DEK 67 Still Learning🔥
+
 ## My Contract Introduction.
 ``` U can Call me : Neoxy.✨```
-``` I'm Interested About : Html, Php, Css🔥```
-I'm NinjaLaos!
+
+ ```I'm Interested About : Html, Php, Css🔥```
+
+```I'm NinjaLaos!```
+
+## Still Studying✨
+| Learning        | Now           | Status : ✅ |
+| ------------- |:-------------:| -----:|
+| Html     | Learning | Still Bad |
+| Css      | Learning      |  Still Bad |
+| Php      | Learning      |  Still Bad  |
+
+### Contract 
+```IG ```: https://www.instagram.com/dawgsheets/
+
+```Discord```: deletedog
+
+## History 
+``` ชื่อ เฟิร์ส [ภูริณัฐ เเสนยางนอก] บ้านเกิดอยู่ อุดรธานี สนใจทางด้าน :
+
+Software Engineer
+
+Cyber Security
+
+Network Engineer
+```
+
+![anime-bye-bye-maki](https://github.com/NexonKitsune/NexonKitsune/assets/173798663/1c7e1eda-4688-46a1-9be8-1b5930a61d19)
+
+# Bye !
+
 
 
 

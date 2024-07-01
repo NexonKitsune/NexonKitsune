@@ -48,7 +48,7 @@ MBTI : INTP-P
 ```Discord```: deletedog
 
 ## History 
-``` ชื่อ เฟิร์ส [ภูริณัฐ เเสนยางนอก] บ้านเกิดอยู่ อุดรธานี สนใจทางด้าน :
+``` 
 Software Engineer
 
 Cyber Security

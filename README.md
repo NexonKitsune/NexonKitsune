@@ -64,6 +64,8 @@ Network Engineer
 # Bye !
 
 
+![anime-bye-maki png](https://github.com/NexonKitsune/NexonKitsune/assets/173798663/71423983-d815-465f-b92e-4efc217ffe1b)
+
 <!--
 **NexonKitsune/NexonKitsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

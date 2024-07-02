@@ -64,7 +64,7 @@ Network Engineer
 ```
 # My Favorite Programming Language
 
-[LUA](https://www.lua.org) : Main Language C:
+[LUA](https://www.lua.org) : Main Language 
 
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 

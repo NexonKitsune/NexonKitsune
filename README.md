@@ -62,7 +62,7 @@ Network Engineer
 ``` Graphic Design
 3D model, Drawer Artist
 ```
-# My Programming Language
+# My Favorite Programming Language
 
 [LUA](https://www.lua.org) : Main Language C:
 

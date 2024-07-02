@@ -62,7 +62,7 @@ Network Engineer
 ``` Graphic Design
 3D model, Drawer Artist
 ```
-.#เป็น Program ที่วาดรูปได้นิดหน่อย เเฮะๆ
+
 # Bye !
 
 

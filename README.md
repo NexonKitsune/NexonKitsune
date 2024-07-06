@@ -1,18 +1,3 @@
-# 見に来てくださった皆様、こんにちは。👋
-## (Nice To Meet you Everyone.)
-
-![234b2257-66fe-4336-9a05-d4a5835da24e](https://github.com/NexonKitsune/NexonKitsune/assets/173798663/53710079-6c3b-4253-85de-bb095d7b265a)
-
-
-🏫 Am currently working on University.
-
-🌱 I’m currently learning Front-end, Back-end, DevOps and more
-
-KMUTNB 67 [ INE ]
-
-DEK 67 Still Learning🔥
-
-
 # My Repository✨
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 

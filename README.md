@@ -14,20 +14,6 @@ KMUTNB 67 [ INE ]
 
 DEK 67 Still Learning🔥
 
-# My Profile :
-
-![IMG_0624](https://github.com/NexonKitsune/NexonKitsune/assets/173798663/746d81cd-5f73-47e9-98bd-9fb8f86c996c)
-
-```
-Name : Poorinut Saenyangnok
-
-Nickname : First
-
-Age : Up to U
-
-MBTI : INTP-P
-```
-
 ## My Contract Introduction.
 ``` U can Call me : Neoxy.✨```
 

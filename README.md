@@ -22,16 +22,8 @@ DEK 67 Still Learning🔥
 
 
 
-
-# My Favorite Programming Language
-
-[LUA](https://www.lua.org) : Main Language 
-
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+# My Repository✨
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
 
 ![](https://visitcount.itsvg.in/api?id=NexonKitsune&label=Profile%20Views&color=1&pretty=true)

@@ -6,7 +6,6 @@
   </p>
 
 
-![](https://visitcount.itsvg.in/api?id=NexonKitsune&label=Profile%20Views&color=1&pretty=true)
 <!--
 **NexonKitsune/NexonKitsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

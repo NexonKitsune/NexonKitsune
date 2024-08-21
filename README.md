@@ -23,10 +23,14 @@ ___
  <p align="left">Still Learning Skills✨ </p>
 
  <a href="https://www.python.org/" target="blank"><img align="left" src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo-1720462259584.png" alt="Python Languages" height="40" width="40" /></a>
- 
+
+<br>
+<br>
+
+___
+
 </p>
   </p>
-
 
 <!--
 **NexonKitsune/NexonKitsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,10 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">My Profile✨</h2>
  <p align="center">Welcome To my profile🌱</p>
+
+
+<a href="https://www.lua.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Languages" height="40" width="40" /></a>
+ 
 </p>
   </p>
 

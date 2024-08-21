@@ -5,7 +5,6 @@
 
 
 <a href="https://www.w3schools.com/js/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" /></a>
-
 <a href="https://www.lua.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Languages" height="40" width="40" /></a>
  
 </p>

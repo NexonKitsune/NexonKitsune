@@ -23,6 +23,8 @@
 
  <a href="https://www.python.org/" target="blank"><img align="left" src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo-1720462259584.png" alt="Python Languages" height="40" width="40" /></a>
 
+ <a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Python Languages" height="40" width="40" /></a>
+
 <br>
 <br>
 

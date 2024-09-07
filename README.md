@@ -37,7 +37,7 @@ ___
 
 <br>
 <br>
-<h1>Graph Skill ✨</h1>
+<h2 align="center">Graph Skill ✨</h2>
 
 | Language       | Proficiency Level          |
 |----------------|----------------------------|

@@ -41,7 +41,7 @@ ___
 
 | Language       | Proficiency Level          |
 |----------------|----------------------------|
-| JavaScript     | █████████          (40%)    |
+| JavaScript     | ███████            (40%)    |
 | Python         | ███                (30%)    |
 | Lua            | ███               (30%)     |
 | HTML & CSS     | ██████            (40%)     |

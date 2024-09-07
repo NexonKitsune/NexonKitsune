@@ -6,29 +6,53 @@
 <br>
 
 
+![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)
+
 
 <br>
 <h2 align="center">Talents✨ </h2>
 <br>
-<p align="left">Perfect Skills✨ </p>
+<p align="left">Main Skills✨ </p>
 
 
 <a href="https://www.w3schools.com/js/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" /></a>
 
-<a href="https://www.lua.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Languages" height="40" width="40" /></a>
+ <a href="https://www.python.org/" target="blank"><img align="left" src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo-1720462259584.png" alt="Python Languages" height="40" width="40" /></a>
 
+<br>
+<br>
 <br>
 
  <p align="left">Still Learning Skills✨ </p>
 
- <a href="https://www.python.org/" target="blank"><img align="left" src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo-1720462259584.png" alt="Python Languages" height="40" width="40" /></a>
+<br>
 
  <a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Python Languages" height="40" width="40" /></a>
+ <a href="https://www.lua.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Languages" height="40" width="40" /></a>
+
 
 <br>
 <br>
 
-___
+![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)
+
+
+
+<br>
+<br>
+<h1>Graph Skill ✨</h1>
+
+| Language       | Proficiency Level          |
+|----------------|----------------------------|
+| JavaScript     | ████████████████  (100%)    |
+| Python         | ███████████        (60%)    |
+| Lua            | ███               (30%)     |
+| HTML & CSS     | ██████            (40%)     |
+<br>
+<br>
+
+![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)
+
 
 </p>
   </p>

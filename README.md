@@ -6,7 +6,7 @@
 <br>
 
 
-![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)
+___
 
 
 <br>
@@ -51,7 +51,7 @@ ___
 <br>
 <br>
 
-![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)![rainbow-line](https://github.com/user-attachments/assets/4285c16c-bccc-41e0-a26a-33d63d1239f1)
+___
 
 
 </p>

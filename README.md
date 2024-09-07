@@ -23,7 +23,6 @@
 
  <p align="left">Still Learning Skills✨ </p>
 
-<br>
 
  <a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Python Languages" height="40" width="40"/></a>
  <a href="https://www.lua.org/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Languages" height="40" width="40"/></a>

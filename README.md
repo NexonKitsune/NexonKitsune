@@ -1,13 +1,16 @@
+
+![ascii-text-art](https://github.com/user-attachments/assets/732406ea-1c4c-4e06-ac10-72a15d1b2b53)
+
+<br>
+
+<br>
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">My Profile✨</h2>
  <p align="center">Welcome To my profile🌱</p>
  
 <br>
-
-
-![ascii-text-art](https://github.com/user-attachments/assets/732406ea-1c4c-4e06-ac10-72a15d1b2b53)
-
 
 <br>
 <h2 align="center">Talents✨ </h2>

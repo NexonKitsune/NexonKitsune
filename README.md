@@ -6,6 +6,8 @@
 <br>
 
 
+![ascii-text-art](https://github.com/user-attachments/assets/732406ea-1c4c-4e06-ac10-72a15d1b2b53)
+
 
 <br>
 <h2 align="center">Talents✨ </h2>
